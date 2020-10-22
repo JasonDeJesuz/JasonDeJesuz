@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Learn as much as possible and complete my MCSD certification
 - ⚡ Fun fact: I love to read, hike and nerd out on Star Wars.
 
+## Other Github Accounts
+You can find my other Github Account over [here][othergithub]! 😄
+
 ### Connect with me:
 
 [<img align="left" alt="jasondejesuz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -73,3 +76,4 @@ Here are some ideas to get you started:
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[othergithub]: https://github.com/JDeJesuz
