@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 [website]: https://jasondejesuz.com
 [twitter]: https://twitter.com/jasondejesuzz
 [instagram]: https://instagram.com/JasonDeJesuz
-[linkedin]: www.linkedin.com/in/jason-de-jesuz-83a7b6158
+[linkedin]: https://linkedin.com/in/jason-de-jesuz-83a7b6158
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
