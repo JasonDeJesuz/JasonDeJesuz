@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ## I'm a Human Being, Adventurer and Developer.
 
-- 🔭 I'm currently working on improving my budget overview, by creating a dashboard and mobile applicaton for my personal use!
-- 🌱 I’m currently learning everything 🤣
-- 📫 How to reach me: Send me a skype message and let's have a chat
-- 🥅 2020 Goals: Learn as much as possible and complete my MCSD certification
+- 🔭 I'm currently working on a Bitcoin Trading bot written in Python!
+- 🌱 I’m currently learning more about Bitcoin, Cryptocurrencies and Blockchain.
+- 📫 How to reach me: Send me a skype message and let's have a chat.
+- 🥅 2021 Goals: Learn as much as possible, and use my skills for positive outcomes.
 - ⚡ Fun fact: I love to read, hike and nerd out on Star Wars.
 
 ## Other Github Accounts
@@ -68,7 +68,7 @@ You can find my other Github Account over [here][othergithub]! 😄
 
 </details> -->
 
-[website]: https://jasondejesuz.com
+[website]: https://jasondejesuz.co.za
 [twitter]: https://twitter.com/jasondejesuzz
 [instagram]: https://instagram.com/JasonDeJesuz
 [linkedin]: https://linkedin.com/in/jason-de-jesuz-83a7b6158
