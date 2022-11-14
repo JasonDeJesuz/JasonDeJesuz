@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Jason. 👋
 
-[![Website](https://img.shields.io/website?label=guywithagopro.com&style=for-the-badge&url=https%3A%2F%2Fdudewithagopro.com)](https://dudewithagopro.com)
+[![Website](https://img.shields.io/website?label=dudewithagopro.com&style=for-the-badge&url=https%3A%2F%2Fdudewithagopro.com)](https://dudewithagopro.com)
 
 ## I'm a Founder, Trader and Software Engineer.
 
