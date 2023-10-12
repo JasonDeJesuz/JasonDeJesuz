@@ -19,10 +19,9 @@ Here are some ideas to get you started:
 
 ## I'm a Founder, Trader and Software Engineer.
 
-- 👨‍💻 I’m currently learning more about Bitcoin, Cryptocurrencies and Blockchain.
-- 🤖 I'm currently working on a Bitcoin Trading bot written in Python!
-- 🥅 2022 Goals: Makes teams better at OnLoop.
-- ⚡ Fun fact: I love to travel, workout, hike and read books.
+- 👨‍💻 I’m currently building a trading firm.
+- 🤖 I'm currently working for a tech startup in singapore!
+- 🥅 2024 Goals: Complete ironman 70.3.
 
 ### Connect with me:
 
@@ -53,8 +52,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
-[![nomadlist dejeszio](https://nomadlist.com/@dejeszio/embed)]
 
 
 ### ⚡️ Github Stats
