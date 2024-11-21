@@ -21,12 +21,6 @@ Product Hunt: (view my PH launchs 🥺)[https://www.producthunt.com/@jasondejesu
 
 Newsletter: (read cool shit 😏)[https://jasondejesuz.beehiiv.com/]
 
-<br />
-
-<br />
-<br />
-
-
 ### ⚡️ Github Stats
 
 ![Jason's GitHub stats](https://my-github-stats-umber.vercel.app/api?username=jasondejesuz&count_private=true&theme=radical&show_icons=true)
