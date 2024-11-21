@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Indie Maker
 
-Product Hunt: (view my PH launchs 🥺)[https://www.producthunt.com/@jasondejesuz]
+Product Hunt: (view my PH launches 🥺)[https://www.producthunt.com/@jasondejesuz]
 
 Newsletter: (read cool shit 😏)[https://jasondejesuz.beehiiv.com/]
 
