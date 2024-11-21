@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Indie Maker
 
 Product Hunt: (view my PH launchs 🥺)[https://www.producthunt.com/@jasondejesuz]
+
 Newsletter: (read cool shit 😏)[https://jasondejesuz.beehiiv.com/]
 
 <br />
@@ -28,4 +29,4 @@ Newsletter: (read cool shit 😏)[https://jasondejesuz.beehiiv.com/]
 
 ### ⚡️ Github Stats
 
-[![Jason's GitHub stats](https://github-stats-tan-nine.vercel.app/api?username=jasondejesuz&count_private=true&theme=radical&show_icons=true)]
+![Jason's GitHub stats](https://my-github-stats-umber.vercel.app/api?username=jasondejesuz&count_private=true&theme=radical&show_icons=true)
