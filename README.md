@@ -28,4 +28,4 @@ Newsletter: (read cool shit 😏)[https://jasondejesuz.beehiiv.com/]
 
 ### ⚡️ Github Stats
 
-[![Jason's GitHub stats](https://github-stats-c7wrhu75p-jasons-projects-a160c366.vercel.app/api?username=jasondejesuz&count_private=true&theme=radical&show_icons=true)]
+[![Jason's GitHub stats](https://github-stats-tan-nine.vercel.app/api?username=jasondejesuz&count_private=true&theme=radical&show_icons=true)]
