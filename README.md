@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Hey, I'm Jason. 👋
 
-## Indie Maker
+## Hacker
 
-Product Hunt: (view my PH launches 🥺)[https://www.producthunt.com/@jasondejesuz]
+(Product Hunt)[https://www.producthunt.com/@jasondejesuz]
 
-Newsletter: (read cool shit 😏)[https://jasondejesuz.beehiiv.com/]
+Building the life I want at Epictetus Research in Singapore.
 
 ### ⚡️ Github Stats
 
