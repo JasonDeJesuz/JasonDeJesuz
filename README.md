@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm Jason. 👋
+# J.B. De Jesuz
 
 ## Hacker
-
-(Product Hunt)[https://www.producthunt.com/@jasondejesuz]
 
 Building the life I want at Epictetus Research in Singapore.
 
