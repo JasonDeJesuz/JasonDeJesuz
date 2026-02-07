@@ -7,12 +7,19 @@ Hi, I’m Jason De Jesuz — a software engineer, builder, and unapologetic oper
 - Architected backends that scale, frontends that feel good, and flows that automate what used to take teams.
 - Deeply technical. Even deeper into delivery. My work always ends in something real getting into users’ hands.
 
+## Where my focus lies right now
+
+- DIRT: Reshaping land development cycles in the USA.
+- YEETCODE: Giving third world origin solo tech founders accesss to first world opporunities.
+- ARGUS: Arbitrage, everything.
+
 ## Things I've Built
 
-- An arbitrage scanner across 20+ exchanges with WebSockets + AI that’s helped real people profit in crypto.
-- A calorie tracker with computer vision and GPT integration. Over $10K revenue, self-funded.
-- Internal tooling that’s closed deals, cut costs, and automated the stuff people usually outsource.
+- Live tutoring platform being used by tutors across UK and UAE.
+- An arbitrage scanner across 20+ exchanges with WebSockets + AI that’s helped real people profit in crypto. Well used to.
+- A calorie tracker with computer vision and LLM integrations to create your best self.
 - Conversational agents that write reports, generate insights, and reduce human workload in actual business ops.
+- Internal tooling that’s closed deals, cut costs, and automated the stuff people usually outsource.
 
 ## My Edge
 
@@ -27,7 +34,7 @@ TypeScript · Convex · NestJS · Expo · React Native · Supabase · Resend · 
 
 ## Currently
 
-- Running lean cycles with async teams across timezones.
+- Running lean cycles with async teams across several timezones.
 - Building infra and AI agents for wellness, education, and trading apps.
 - Cutting out complexity. Prioritizing clarity. Reinvesting in health, strength, and spiritual balance.
 
